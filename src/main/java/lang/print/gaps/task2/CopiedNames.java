@@ -10,5 +10,10 @@ public class CopiedNames {
         int variables = 5000;
         int variables2 = 7000;
         int value3 = 90000;
+        int integer = 100000;
+        int my_integer = 1000000;
+        int my_var = 1234567;
+        int myInteger = 1234567;
+
     }
 }
